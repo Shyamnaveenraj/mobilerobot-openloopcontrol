@@ -80,10 +80,9 @@ Insert image here
 <br/>
 <br/>
 
-## MobileRobot Movement Video:
+## MobileRobot Movement Video
 
-
-[![IMAGE ALT TEXT HERE](https://youtu.be/5LrBBlLG7UQ)
+(https://youtu.be/5LrBBlLG7UQ)
 
 <br/>
 <br/>
