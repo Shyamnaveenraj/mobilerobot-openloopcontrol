@@ -83,7 +83,7 @@ Insert image here
 ## MobileRobot Movement Video:
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/5LrBBlLG7UQ)
+[![IMAGE ALT TEXT HERE](https://youtu.be/5LrBBlLG7UQ)
 
 <br/>
 <br/>
